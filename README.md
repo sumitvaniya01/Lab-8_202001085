@@ -41,6 +41,9 @@ and ken?
 
 added private field jen and ken.
 
+![image](https://user-images.githubusercontent.com/107172109/233043166-275949f9-0d18-4ce3-8348-bb1cc5a49a86.png)
+
+
 6. Now you can run your tests. Read the section “Running Your Test Case” in the tutorial.
 Did you get a green bar in the JUnit pane? If you got a red bar, use the output in the
 JUnit pane to determine which test(s) failed. Fix your tests, and try running the test
@@ -52,7 +55,13 @@ that’s what unit testing is supposed to do – help us find errors in our code
 fails, you need to determine if the error is in the test case itself or in the code it’s
 testing.
 
+adding test cases
+
 ![image](https://user-images.githubusercontent.com/107172109/233034754-fb27289f-dcb1-4a91-9d2e-2e46cef042bf.png)
+
+7. Adding new method to the Boa class, with this purpose and signature:
+
+![image](https://user-images.githubusercontent.com/107172109/233040010-a0e0f591-ee05-4f30-81e8-1db9fcb30195.png)
 
 
 
