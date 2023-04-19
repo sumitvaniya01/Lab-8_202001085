@@ -68,11 +68,11 @@ adding test cases
 
 ![image](https://user-images.githubusercontent.com/107172109/233040010-a0e0f591-ee05-4f30-81e8-1db9fcb30195.png)
 
-9.Adding the new test cases for the new method -
+9.Adding the new test cases for the new method :
 
 ![image](https://user-images.githubusercontent.com/107172109/233048125-a5dfdef6-37b6-49a5-9fc6-f23bb20b2295.png)
 
-10.After running all the test cases after adding the new method -
+10.After running all the test cases after adding the new method :
 
 ![image](https://user-images.githubusercontent.com/107172109/233048049-61a9dddc-26f9-4ced-b40f-fa27f970ac65.png)
 
